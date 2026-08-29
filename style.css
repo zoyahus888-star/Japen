@@ -1,0 +1,44 @@
+body { 
+  background: lightyellow;
+  padding: 20px;
+  color: navy;
+  font-family: arial, sans-serif;
+  
+}
+p {
+font-size: 18px;
+  line-height: 1.6;
+  margin-left: 20px;
+}
+
+
+.intro-card, .list-card, .funfact-card, .link-card {
+  background: white;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  border-radius: 20px;
+}
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+.intro-card {
+  border-left: 5px solid brawn;
+}
+a {
+display: inline-block;
+background: navy;  
+color: white;
+  paddign: 10px 20px;
+  text-decoration: none;
+   border-radius: 5px;
+margin: 10px 10px 10px 0;
+  margin-left: 20px;
+}
+  h2 {
+    margin-left: 20px;
+  }
+img{
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+}
